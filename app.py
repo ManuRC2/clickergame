@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import messagebox, colorchooser, font
 
+# hola
+
 loop = True
 cookies = 0
 cps = 0
